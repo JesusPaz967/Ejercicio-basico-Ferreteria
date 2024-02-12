@@ -1,0 +1,4 @@
+Martillo:35
+Clavos:2
+Alambres:20
+Destornillador:10
